@@ -35,5 +35,4 @@ public class ViaCepControler implements Serializable{
 	    return new ResponseEntity<EnderecoDTO>(enderecoDto, HttpStatus.OK);
 	  }
 
-
 }
